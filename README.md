@@ -3,6 +3,12 @@ just for study!
 
 ## 说明：
 
+运行环境：python3.x
+
+所需库：requests，json，time，re
+
+运行：直接运行以下python文件
+
 ### vip.py为获取压缩后图片的爬虫
 
 图片保存在 images/ 中
