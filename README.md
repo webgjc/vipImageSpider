@@ -51,5 +51,11 @@ just for study!
 
 保存的为小图
 
+### baiduladyimage.py为爬百度的女装图
+
+图片保存在 baiduimage/ 中
+
+列表保存在 baiduimage.txt 中
+
 
 #### 注：如txt文件乱码，可尝试用记事本打开，或改变文本编码为gbk
