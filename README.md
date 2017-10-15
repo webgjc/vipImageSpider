@@ -57,5 +57,13 @@ just for study!
 
 列表保存在 baiduimage.txt 中
 
+### vipnomodel3.py为爬唯品会无模特女装图
+
+### 注：需要python3环境 所需库：dlib，PIL，cv2，requests ，numpy，re
+
+图片保存在 vipnomodel/ 中
+
+列表保存在 vipnomodel.txt 中
+
 
 #### 注：如txt文件乱码，可尝试用记事本打开，或改变文本编码为gbk
